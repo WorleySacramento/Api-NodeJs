@@ -1,0 +1,19 @@
+{
+  "name": "api-nodejs",
+  "version": "1.0.0",
+  "description": "api basica",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WorleySacramento/Api-NodeJs.git"
+  },
+  "author": "Worley Sacramento",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WorleySacramento/Api-NodeJs/issues"
+  },
+  "homepage": "https://github.com/WorleySacramento/Api-NodeJs#readme"
+}
